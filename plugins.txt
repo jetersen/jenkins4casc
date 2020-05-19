@@ -1,2 +1,1 @@
-configuration-as-code:1.5
-configuration-as-code-support:1.5
+configuration-as-code:incrementals;io.jenkins;1.41-rc1087.fadf33aa79c5

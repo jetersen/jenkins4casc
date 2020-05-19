@@ -1,3 +1,9 @@
 jenkins:
   systemMessage: "The smallest possible configuration for Jenkins Configuration as Code plugin"
 
+unclassified:
+  location:
+    adminAddress: "configred by code <by@nobody>"
+    url: "http://localhost:8080/"
+  resourceRoot:
+    url: "http://127.0.0.1:8080/"
